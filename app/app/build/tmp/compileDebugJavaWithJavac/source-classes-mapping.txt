@@ -1,0 +1,5 @@
+com/example/fbclick/BuildConfig.java
+ com.example.fbclick.BuildConfig
+com/example/fbclick/MainActivity.java
+ com.example.fbclick.MainActivity
+ com.example.fbclick.MainActivity$1
